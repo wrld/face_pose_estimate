@@ -8,3 +8,7 @@ Estimate the pose of face
 - Tengine
 - opencv
 - C++
+## Result
+<img src="https://github.com/wrld/face_pose_estimate/master/result.png"/>
+
+<img src="https://github.com/wrld/face_pose_estimate/master/final_result.png"/>
