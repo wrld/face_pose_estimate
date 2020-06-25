@@ -9,6 +9,6 @@ Estimate the pose of face
 - opencv
 - C++
 ## Result
-<img src="https://github.com/wrld/face_pose_estimate/blob/master/final.png"/>
+<img src="https://github.com/wrld/face_pose_estimate/raw/master/final.png"/>
 
-<img src="https://github.com/wrld/face_pose_estimate/blob/master/final_result.png"/>
+<img src="https://github.com/wrld/face_pose_estimate/raw/master/final_result.png"/>
